@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f0f0f0;
+    padding: 20px;
+
+}
+
+.batata {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 800px;
+    margin: 0 auto;
+
+}
+
+h1,
+h2,
+h3 {
+    color: #333;
+
+}
+
+.section h2 {
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+
+}
+
+.experience p {
+    font-style: italic;
+    margin-bottom: 3px;
+
+}
+
+.ft {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: right;
+    right: 200%;
+    margin-right: 200px;
+
+
+}
+
+#foto {
+    background-image: url("assets/7725022-perfil-icone-ui-icon-vetor.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 200px;
+    height: 200px;
+    display: inline;
+    justify-content: right;
+    margin: 600px;
+    margin-top: 0px;
+
+}
